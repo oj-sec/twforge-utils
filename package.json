@@ -1,7 +1,7 @@
 {
   "name": "twforge-utils",
-  "version": "1000.0.1",
-  "description": "placeholder",
+  "version": "1000.0.2",
+  "description": "security warning - malicious package name",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
